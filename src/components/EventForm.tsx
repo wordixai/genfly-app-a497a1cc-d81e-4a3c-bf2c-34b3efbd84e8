@@ -74,7 +74,7 @@ const EventForm: React.FC<EventFormProps> = ({ event, isOpen, onClose }) => {
     'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop',
     'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop',
     'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop',
-    'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=400&h=300&fit=crop',
+    'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop',
   ];
 
   return (
