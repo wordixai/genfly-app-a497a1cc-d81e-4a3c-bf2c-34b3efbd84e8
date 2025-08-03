@@ -53,7 +53,7 @@ const sampleEvents: TimelineEvent[] = [
     category: 'classical',
     importance: 'high',
     position: 0,
-    imageUrl: 'https://images.unsplash.com/photo-1539650116574-75c0c6d73a0e?w=400&h=300&fit=crop'
+    imageUrl: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop'
   },
   {
     id: '2',
@@ -64,7 +64,7 @@ const sampleEvents: TimelineEvent[] = [
     category: 'medieval',
     importance: 'high',
     position: 1,
-    imageUrl: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop'
+    imageUrl: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop'
   },
   {
     id: '3',
@@ -86,7 +86,7 @@ const sampleEvents: TimelineEvent[] = [
     category: 'modern',
     importance: 'high',
     position: 3,
-    imageUrl: 'https://images.unsplash.com/photo-1569019604570-a31d5bb5d3dd?w=400&h=300&fit=crop'
+    imageUrl: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop'
   },
   {
     id: '5',
