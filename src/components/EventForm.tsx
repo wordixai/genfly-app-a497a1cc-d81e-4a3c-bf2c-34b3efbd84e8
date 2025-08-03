@@ -64,7 +64,7 @@ const EventForm: React.FC<EventFormProps> = ({ event, isOpen, onClose }) => {
     { value: 'ancient', label: 'Ancient (Before 500 CE)', color: 'bg-timeline-ancient' },
     { value: 'classical', label: 'Classical (500-1000 CE)', color: 'bg-timeline-classical' },
     { value: 'medieval', label: 'Medieval (1000-1500 CE)', color: 'bg-timeline-medieval' },
-    { value: 'renaissance', label: 'Renaissance (1500-1700 CE)', color: 'bg-timeline-renaissance' },
+    { value: 'renaissanc', label: 'Renaissance (1500-1700 CE)', color: 'bg-timeline-renaissance' },
     { value: 'modern', label: 'Modern (1700-1950 CE)', color: 'bg-timeline-modern' },
     { value: 'contemporary', label: 'Contemporary (1950-Present)', color: 'bg-timeline-contemporary' }
   ];
